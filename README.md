@@ -1,2 +1,2 @@
 # steam-parser-scrapy
-Парсис Steam и сохраням данные в формате .json
+Парсим Steam и сохраням данные в формате .json
